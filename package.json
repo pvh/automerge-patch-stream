@@ -1,0 +1,22 @@
+{
+  "name": "automerge-patch-stream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tsx": "^4.16.5"
+  },
+  "resolutions": {
+    "@automerge/automerge": "2.2.9-betterpatches.0"
+  },
+  "dependencies": {
+    "@automerge/automerge": "2.2.9-betterpatches.0",
+    "@automerge/automerge-repo": "^1.2.1"
+  }
+}
